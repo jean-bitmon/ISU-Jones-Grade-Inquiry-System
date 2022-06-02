@@ -7,15 +7,6 @@
 <center>
 	<?php include('header.html');?>
 	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
 	<table width="50%" style="border: 4px solid #3c8653;border-style: inset;border-radius: 10px;background-color: #21b8cc;">
 		<tr>
 			<th width="80%">
